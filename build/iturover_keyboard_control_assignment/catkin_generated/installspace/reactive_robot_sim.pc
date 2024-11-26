@@ -1,0 +1,8 @@
+prefix=/home/aktug/rover_ws/install
+
+Name: reactive_robot_sim
+Description: Description of reactive_robot_sim
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: turtlebot3 turtlebot3_simulations

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/aktug/rover_ws/devel/setup.sh
